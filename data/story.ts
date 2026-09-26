@@ -210,7 +210,7 @@ export const story: StoryData = {
   finale: {
     lines: ['365 days.', 'Countless memories.', 'One beautiful story.'],
     title: 'Happy 1st Anniversary',
-    names: 'prachurja & nandini',
+    names: 'prachurjya & nandini',
     closing:
       'Here\'s to everything that came before,\nand everything still waiting to be written.',
   },

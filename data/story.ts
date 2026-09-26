@@ -82,8 +82,8 @@ export const story: StoryData = {
   // ─── Scene 1 — The beginning ───────────────────────────────
   beginning: {
     prelude: 'One year ago…',
-    names: '[NAME 1] & [NAME 2]',
-    date: '[ANNIVERSARY DATE]',
+    names: 'kosu & butki',
+    date: 'september 20',
     copy: 'The beginning of something neither of them knew would become this beautiful.',
   },
 
@@ -190,27 +190,31 @@ export const story: StoryData = {
   // ─── Letter ────────────────────────────────────────────────
   letter: {
     salutation: 'To two of my favourite people,',
-    body: `[Replace this with your personal letter. Write it as you'd say it — honestly, warmly, and without trying too hard. The best letters sound like the person who wrote them.
-
-You can write about how you've watched them together. The moments that stood out. The small things that gave you away before they even knew what they had.
-
-Write about what a year means — not in grand terms, but in the real ones. The Sunday mornings. The bad days they showed up for. The way they make each other laugh.
-
-Tell them what you see when you watch them together. Be specific. Be true. Be you.
-
-This is the part of the site that only you can write.]`,
-    sign: '— [YOUR NAME]',
+    body: `sooo hiii, your lovely steve here. i genuinely don\'t know what to say at this point but i\'m
+    
+    soooo happy for you guys. kudos to both of you, to two of my fav people. thanks you guys for adopting me
+    
+    hehehe, forever glad that i was able to witness you guys completing a year, ofcs we\'ve got a lot more to 
+    
+    come and i will alway hope for the best cause i gotta be the cool uncle for your kids hehehe, bet i\'ll be 
+    
+    coolest they\'ll ever meet and the we\'ll sit together and recall all the moments we spent together with
+    
+    you guys being the love birds and me being the 3rd wheel aka your adopted child hehe. i\'ll forever pray
+    
+    for you guys. once again, happy anniversary✨🎀`,
+    sign: '— Manas',
   },
 
   // ─── Finale ────────────────────────────────────────────────
   finale: {
     lines: ['365 days.', 'Countless memories.', 'One beautiful story.'],
     title: 'Happy 1st Anniversary',
-    names: '[NAME 1] & [NAME 2]',
+    names: 'prachurja & nandini',
     closing:
       'Here\'s to everything that came before,\nand everything still waiting to be written.',
   },
 
   // ─── Creator credit ────────────────────────────────────────
-  creator: '[YOUR NAME]',
+  creator: 'manas',
 };

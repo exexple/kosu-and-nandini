@@ -72,22 +72,6 @@ export default function AudioController({
               {isPlaying ? <Pause size={11} /> : <Play size={11} />}
             </span>
           </button>
-
-          {/* inline keyframes injected via style tag */}
-          <style jsx>{`
-            @keyframes waveBar1 {
-              from { height: 4px; }
-              to   { height: 14px; }
-            }
-            @keyframes waveBar2 {
-              from { height: 8px; }
-              to   { height: 5px; }
-            }
-            @keyframes waveBar3 {
-              from { height: 5px; }
-              to   { height: 12px; }
-            }
-          `}</style>
         </motion.div>
       )}
     </AnimatePresence>

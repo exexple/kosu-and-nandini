@@ -11,7 +11,7 @@ interface UseInViewOptions {
  * By default fires once and stays true (once = true).
  */
 export function useInView(
-  ref: React.RefObject<Element | null>,
+  ref: React.RefObject<any>,
   options: UseInViewOptions = {}
 ): boolean {
   const { threshold = 0.1, rootMargin = '0px', once = true } = options;

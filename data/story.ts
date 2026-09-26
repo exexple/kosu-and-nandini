@@ -158,7 +158,7 @@ export const story: StoryData = {
         chapter: '01',
         title: 'The beginning',
         description:
-          'A first hello that turned into hours. The kind of conversation you don't want to end.',
+          "A first hello that turned into hours. The kind of conversation you don't want to end.",
       },
       {
         chapter: '02',
